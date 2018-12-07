@@ -9,4 +9,6 @@ Installation:
   
   You can change the key in: esx_blindfold/client.lua
         RR. 86: (0, Keys["F2"]) you can change the key with the one you like.
+        
+ Discord: https://discord.gg/yyGb5Mt
        
